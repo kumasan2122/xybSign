@@ -24,9 +24,21 @@ const config = {
     //   signImagePath: "./images/1.jpeg", //签到图片
     //   needReport: false, //是否自动填写周报
     // },
+    // 添加多个账户
+    // {
+    //   username: "15962165260",
+    //   password: "xwlxwl123",
+    //   openId: "",
+    //   unionId: "",
+    //   sign: true, //是否自动签到
+    //   reSign: false, //是否重新签到
+    //   location: "117.047848,36.667659", //经纬度 (可选),例如 "120.210792,30.246026"、"经度,纬度",不填写则自动获取（推荐）
+    //   signImagePath: "./images/1.jpeg", //签到图片
+    //   needReport: false, //是否自动填写周报
+    // },
   ],
   qmsgKey: "4494e51e50e51d7bb87aebc384d12ce5", //qmsg酱key
-  qmsgTo: "82015579,1160532747,", //推送的qq号,用,分隔(可选)
+  qmsgTo: "82015579,1160532747,3488393126", //推送的qq号,用,分隔(可选)
 };
 
 const modeCN = {
